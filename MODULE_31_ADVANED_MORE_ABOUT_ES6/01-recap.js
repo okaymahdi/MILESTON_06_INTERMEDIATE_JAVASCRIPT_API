@@ -57,7 +57,7 @@ const glass = {
 };
 
 for (const key of glass) {
-    // console.log(key);
+    console.log(key);
     // this is wrong
 }
 
