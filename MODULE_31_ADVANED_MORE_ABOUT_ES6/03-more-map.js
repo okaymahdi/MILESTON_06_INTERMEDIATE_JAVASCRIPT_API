@@ -1,3 +1,4 @@
+/** more .map() function */
 const numbers = [12, 10, 8, 15, 7];
 
 /** multiple any numbers by 2 */

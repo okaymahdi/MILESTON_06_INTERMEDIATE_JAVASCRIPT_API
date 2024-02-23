@@ -56,12 +56,11 @@ const glass = {
     isCleaned: true
 };
 
-for (const key of glass) {
+for (const key of glass) {  // this is wrong
     console.log(key);
-    // this is wrong
 }
 
-for (const key in glass) {
+for (const key in glass) { // this is right
     const value = glass[key];
     console.log(key, value);
 }
