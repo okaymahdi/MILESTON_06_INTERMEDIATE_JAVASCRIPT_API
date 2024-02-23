@@ -17,8 +17,8 @@ class ProductOne {
     }
 }
 const lenovo = new ProductOne('le le lenovo');
-// console.log(lenovo);
-// lenovo.speak('oba kita kau')
+console.log(lenovo);
+lenovo.speak('oba kita kau')
 
 class Teacher {
     constructor(name, subject){
