@@ -8,10 +8,12 @@ const products = [
 
 /** similar 1) has some properties 2) method */
 class ProductOne {
+    // properties
     country = 'Bangladesh';
     constructor(name) {
         this.name = name;
     }
+    // method
     speak(talk) {
         console.log(`talking about ${talk}`);
     }
@@ -21,10 +23,12 @@ console.log(lenovo);
 lenovo.speak('oba kita kau')
 
 class Teacher {
+    // properties
     constructor(name, subject){
         this.name = name;
         this.subject = subject;
     }
+    // method
     lecture(){
         console.log('sir is teaching Math');
     }
