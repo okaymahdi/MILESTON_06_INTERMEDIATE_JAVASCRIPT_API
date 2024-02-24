@@ -4,3 +4,5 @@ https://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript
 
 https://stackoverflow.com/questions/1068834/object-comparison-in-javascript
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
