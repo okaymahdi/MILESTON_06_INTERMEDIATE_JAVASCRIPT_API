@@ -60,3 +60,24 @@ if(!!z) {
 else{
     console.log('check truthy value is falsy');
 }
+
+
+/**
+ * FALSY VS TRUTHY
+ * falsy values.
+ * 1. false.
+ * 2. 0 (zero).
+ * 3. '' (empty string).
+ * 4. null.
+ * 5. undefined.
+ * 6. NaN.
+ * 
+ * 
+ * truthy values
+ * 1. 'false' (quoted false).
+ * 2. '0' (quoted zero).
+ * 3. () (empty function).
+ * 4. [] (empty array).
+ * 5. {} (empty object).
+ * 6. all other values.
+ */
